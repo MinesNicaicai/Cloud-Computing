@@ -1,0 +1,7 @@
+Algorithme : RoundRobinSmart
+Le temps d'attente moyen : 8.003825396825398 s
+Ecart type : 3.879519290053175 s
+Le pire cas : 14.665 s
+
+Task    Node    Calculation_size(gflop)    Memory_size(MB)    Time_waing    Time_Execution    Time_total    Time_arrival
+No.1    A       20                         500                10s           1s                11s           2.5s
